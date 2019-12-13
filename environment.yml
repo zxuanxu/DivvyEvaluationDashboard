@@ -2,8 +2,8 @@ channels:
   - pyviz
   - conda-forge
   - defaults
+  - sodapy
 dependencies:
-  - pypi::sodapy
   - geopandas
   - folium
   - altair
