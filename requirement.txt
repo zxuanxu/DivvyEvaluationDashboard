@@ -1,0 +1,12 @@
+panel
+geopandas
+numpy
+folium
+sodapy
+altair==3.2.0
+notebook
+vega
+param
+holoviews
+hvplot
+bokeh
