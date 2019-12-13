@@ -10,3 +10,4 @@ param
 holoviews
 hvplot
 bokeh
+pandas
