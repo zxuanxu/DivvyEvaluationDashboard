@@ -2,7 +2,6 @@ channels:
   - pyviz
   - conda-forge
   - defaults
-  - sodapy
 dependencies:
   - geopandas
   - folium
@@ -22,3 +21,4 @@ dependencies:
   - pip
   - pip:
       - jupyter-panel-proxy
+      - sodapy
